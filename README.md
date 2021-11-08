@@ -1,1 +1,1 @@
-# HW's for the course *Functional Models*
+HW's for the course 'Functional Models'
